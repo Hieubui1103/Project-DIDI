@@ -1,0 +1,12 @@
+__pycache__
+.env
+
+/litellm
+
+
+examples
+!pipelines/.gitignore
+.DS_Store
+
+.venv
+venv/
